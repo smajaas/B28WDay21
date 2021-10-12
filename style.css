@@ -1,0 +1,13 @@
+h1 {
+    color :white;
+      font-style:italic;  
+      font-size: large;
+      font-weight: 200px;
+      text-align: center;
+      font-size: 80pt;
+      margin-top: 350px;
+    }
+    
+    body {
+      background: grey;
+    }
